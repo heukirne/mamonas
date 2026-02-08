@@ -1,6 +1,6 @@
 # Mamonas Assassinas - O Jogo
 
-Versao web inspirada em **Fury of the Furries (1993)**, feita com HTML, CSS e JavaScript puro.
+Versao web inspirada em [Fury of the Furries (1993)](https://youtu.be/Lp_pLw2Gr44), feita com HTML, CSS e JavaScript puro.
 
 ![Mamonas Assassinas - Hero Brand](https://raw.githubusercontent.com/heukirne/mamonas/refs/heads/main/hero-brand.png)
 
