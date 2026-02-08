@@ -14,7 +14,7 @@ python3 -m http.server 8000
 
 2. Abra no navegador:
 
-`http://localhost:8000`
+`http://localhost:8000` ou teste online: [https://henrique.gemeos.org/mamonas/](https://henrique.gemeos.org/mamonas/)
 
 Tambem funciona abrindo `index.html`, mas servidor local e recomendado.
 
